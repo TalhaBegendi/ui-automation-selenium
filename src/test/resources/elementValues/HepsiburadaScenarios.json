@@ -1,0 +1,77 @@
+[
+  {
+    "key": "common.cookieBannerApplyButton",
+    "value": "onetrust-accept-btn-handler",
+    "type": "id"
+  },
+  {
+    "key": "search.clickSearchbar",
+    "value": "initialComponent-jWu4fqeOfmZhku5aNxLE",
+    "type": "className"
+  },
+  {
+    "key": "search.product",
+    "value": "[data-test-id='search-bar-input']",
+    "type": "css"
+  },
+  {
+    "key": "search.clickSearchButton",
+    "value": "searchBoxOld-yDJzsIfi_S5gVgoapx6f",
+    "type": "className"
+  },
+  {
+    "key": "assert.productName",
+    "value": "//h1[@class='searchResultSummaryBar-AVnHBWRNB0_veFy34hco']",
+    "type": "xpath"
+  },
+  {
+    "key": "product.clickRandomProduct",
+    "value": "//div[@data-test-id='loader-false']//ul[@id='1']/li",
+    "type": "xpath"
+  },
+  {
+    "key": "product.reviewsTab",
+    "value": "productReviewsTab",
+    "type": "id"
+  },
+  {
+    "key": "reviews.openDropDown",
+    "value": "hermes-Sort-module-Zwr_VRf_e4tZXl5J1PgT",
+    "type": "className"
+  },
+  {
+    "key": "reviews.clickButton",
+    "value": "//div[@itemprop='review'][1]//div[@class='hermes-ReviewCard-module-TmvsHE1pbDdDHzyLW5w3'][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "reviews.textThanks",
+    "value": "//div[@itemprop='review'][1]//span[@class='hermes-ReviewCard-module-eFtSSTU4lYZLCnzHtzca'][1]",
+    "type": "xpath"
+  },
+  {
+    "key": "productDetail.likeButton",
+    "value": "[class='customerAccount-Like-13gj2']",
+    "type": "css"
+  },
+  {
+    "key": "productDetail.price",
+    "value": "//span[@id='offering-price']",
+    "type": "xpath"
+  },
+  {
+    "key": "product.addToBasket",
+    "value": "addToCart",
+    "type": "id"
+  },
+  {
+    "key": "product.goToBasket",
+    "value": "//div[@class='checkoutui-ProductOnBasketHeader-zdTSacusLu4Cu0LDpmnB']/button[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "basket.price",
+    "value": "[class='product_price_uXU6Q']",
+    "type": "css"
+  }
+]
